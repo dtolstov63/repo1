@@ -1,0 +1,5 @@
+C:\Dev\CSharp\Injector\InjectiorRunTime\bin\Debug\InjectiorRunTime.dll
+C:\Dev\CSharp\Injector\InjectiorRunTime\bin\Debug\InjectiorRunTime.pdb
+C:\Dev\CSharp\Injector\InjectiorRunTime\obj\Debug\InjectiorRunTime.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\Injector\InjectiorRunTime\obj\Debug\InjectiorRunTime.dll
+C:\Dev\CSharp\Injector\InjectiorRunTime\obj\Debug\InjectiorRunTime.pdb

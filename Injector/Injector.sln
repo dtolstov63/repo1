@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injector", "Injector.csproj", "{950AE4C9-03AB-4DE7-B460-10E273AB5773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectiorRunTime", "..\InjectiorRunTime\InjectiorRunTime.csproj", "{2E79BFF2-EC3E-4776-B452-C778BEE859B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950AE4C9-03AB-4DE7-B460-10E273AB5773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950AE4C9-03AB-4DE7-B460-10E273AB5773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950AE4C9-03AB-4DE7-B460-10E273AB5773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950AE4C9-03AB-4DE7-B460-10E273AB5773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E79BFF2-EC3E-4776-B452-C778BEE859B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E79BFF2-EC3E-4776-B452-C778BEE859B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E79BFF2-EC3E-4776-B452-C778BEE859B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E79BFF2-EC3E-4776-B452-C778BEE859B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99512857-9928-454E-919E-FA0D8A368864}
+	EndGlobalSection
+EndGlobal
